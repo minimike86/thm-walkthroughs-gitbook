@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most
-  critical web security risks.
+  Learn about and exploit each of the   vulnerabilities; the 10 most critical
+  web security risks.
 cover: https://i.imgur.com/sP6d0iZ.png
 coverY: 0
 ---
@@ -21,7 +21,7 @@ coverY: 0
 
 ![OWASP Logo](https://i.imgur.com/QYg97jR.png)
 
-This room breaks each OWASP topic down and includes details on what the vulnerability is, how it occurs and how you can exploit it. You will put the theory into practise by completing supporting challenges.
+This room breaks each category in the [OWASP Top 10 (2017)](https://owasp.org/www-project-top-ten/) project down and includes details on what the vulnerability is, how it occurs and how you can exploit it. You will put the theory into practise by completing supporting challenges.
 
 * Injection
 * Broken Authentication
@@ -270,7 +270,9 @@ No answer needed
 
 ## Task 31 What Next?
 
-Why not enroll in our [beginner level pathway](https://tryhackme.com/path/outline/beginner) or [find another room](https://tryhackme.com/hacktivities) to complete?
+Donate to the OWASP Foundation!
+
+{% embed url="https://owasp.org/donate/?reponame=owasp.github.io" %}
 
 ### Read the above!
 
