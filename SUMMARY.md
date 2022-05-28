@@ -14,6 +14,7 @@
 ## Easy
 
 * [🧑🏫 Tutorial](easy/tutorial.md)
+* [📡 Nmap](easy/nmap.md)
 * [🐝 OWASP Top 10](easy/owasp-top-10/README.md)
   * [Task 5 - Command Injection Practical](easy/owasp-top-10/task-5-command-injection-practical.md)
   * [Task 7 - Broken Authentication Practical](easy/owasp-top-10/task-7-broken-authentication-practical.md)
