@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# 🐧 Linux Fundamentals Part 1
+# 🐧 Linux Fundamentals | Part 1
 
 {% embed url="https://tryhackme.com/room/linuxfundamentalspart1" %}
 [https://tryhackme.com/room/linuxfundamentalspart1](https://tryhackme.com/room/linuxfundamentalspart1)
@@ -18,53 +18,55 @@ coverY: 0
 | Difficulty            |  <mark style="color:blue;background-color:blue;">Info</mark>            |
 | Tags                  | Linux, Beginner, Linux Fundamental, New                                 |
 
+## Video Walkthrough
+
 {% embed url="https://youtu.be/kPylihJRG70" %}
 Learn the Linux Fundamentals Part 1 | TryHackMe
 {% endembed %}
 
-## Task 1 Introduction
+## Task 1 - Introduction
 
 {% hint style="success" %}
 No answer needed
 {% endhint %}
 
-## Task 2 A Bit of Background on Linux
+## Task 2 - A Bit of Background on Linux
 
 {% content-ref url="task-2-a-bit-of-background-on-linux.md" %}
 [task-2-a-bit-of-background-on-linux.md](task-2-a-bit-of-background-on-linux.md)
 {% endcontent-ref %}
 
-## Task 3 Interacting With Your First Linux Machine (In-Browser)
+## Task 3 - Interacting With Your First Linux Machine (In-Browser)
 
 {% hint style="success" %}
 No answer needed
 {% endhint %}
 
-## Task 4 Running Your First few Commands
+## Task 4 - Running Your First few Commands
 
 {% content-ref url="task-4-running-your-first-few-commands.md" %}
 [task-4-running-your-first-few-commands.md](task-4-running-your-first-few-commands.md)
 {% endcontent-ref %}
 
-## Task 5 Interacting With the Filesystem!
+## Task 5 - Interacting With the Filesystem!
 
 {% content-ref url="task-5-interacting-with-the-filesystem.md" %}
 [task-5-interacting-with-the-filesystem.md](task-5-interacting-with-the-filesystem.md)
 {% endcontent-ref %}
 
-## Task 6 Searching for Files
+## Task 6 - Searching for Files
 
 {% content-ref url="task-6-searching-for-files.md" %}
 [task-6-searching-for-files.md](task-6-searching-for-files.md)
 {% endcontent-ref %}
 
-## Task 7 An Introduction to Shell Operators
+## Task 7 - An Introduction to Shell Operators
 
 {% content-ref url="task-7-an-introduction-to-shell-operators.md" %}
 [task-7-an-introduction-to-shell-operators.md](task-7-an-introduction-to-shell-operators.md)
 {% endcontent-ref %}
 
-## Task 8 Conclusions & Summaries
+## Task 8 - Conclusions & Summaries
 
 ### I'll have a play around!
 
@@ -72,7 +74,7 @@ No answer needed
 No answer needed
 {% endhint %}
 
-## Task 9 Linux Fundamentals Part 2
+## Task 9 - Linux Fundamentals Part 2
 
 ### Terminate the machine deployed in this room from task 3.&#x20;
 
@@ -80,7 +82,11 @@ No answer needed
 No answer needed
 {% endhint %}
 
-### Join [Linux Fundamentals Part 2!](https://tryhackme.com/jr/linuxfundamentalspart2)
+### Join [Linux Fundamentals Part 2](../linux-fundamentals-or-part-2/)!
+
+{% embed url="https://tryhackme.com/room/linuxfundamentalspart2" %}
+[https://tryhackme.com/room/linuxfundamentalspart2](https://tryhackme.com/room/linuxfundamentalspart2)
+{% endembed %}
 
 {% hint style="success" %}
 No answer needed

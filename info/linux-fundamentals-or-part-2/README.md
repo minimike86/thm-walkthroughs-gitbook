@@ -28,7 +28,7 @@ description: >-
 Learn the Linux Fundamentals Part 2 | TryHackMe
 {% endembed %}
 
-## Task 1 Introduction
+## Task 1 - Introduction
 
 ### Let's proceed!
 
@@ -36,7 +36,7 @@ Learn the Linux Fundamentals Part 2 | TryHackMe
 No answer needed
 {% endhint %}
 
-## Task 2 Accessing Your Linux Machine Using SSH (Deploy)
+## Task 2 - Accessing Your Linux Machine Using SSH (Deploy)
 
 ### I've logged into the Linux Fundamentals Part 2 machine using SSH!
 
@@ -44,31 +44,31 @@ No answer needed
 No answer needed
 {% endhint %}
 
-## Task 3 Introduction to Flags and Switches
+## Task 3 - Introduction to Flags and Switches
 
 {% content-ref url="task-3-introduction-to-flags-and-switches.md" %}
 [task-3-introduction-to-flags-and-switches.md](task-3-introduction-to-flags-and-switches.md)
 {% endcontent-ref %}
 
-## Task 4 Filesystem Interaction Continued
+## Task 4 - Filesystem Interaction Continued
 
 {% content-ref url="task-4-filesystem-interaction-continued.md" %}
 [task-4-filesystem-interaction-continued.md](task-4-filesystem-interaction-continued.md)
 {% endcontent-ref %}
 
-## Task 5 Permissions 101
+## Task 5 - Permissions 101
 
 {% content-ref url="task-5-permissions-101.md" %}
 [task-5-permissions-101.md](task-5-permissions-101.md)
 {% endcontent-ref %}
 
-## Task 6 Common Directories
+## Task 6 - Common Directories
 
 {% content-ref url="task-6-common-directories.md" %}
 [task-6-common-directories.md](task-6-common-directories.md)
 {% endcontent-ref %}
 
-## Task 7 Conclusions and Summaries
+## Task 7 - Conclusions and Summaries
 
 ### Proceed to the next task to continue your learning
 
@@ -76,7 +76,7 @@ No answer needed
 No answer needed
 {% endhint %}
 
-## Task 8 Linux Fundamentals Part 3
+## Task 8 - Linux Fundamentals Part 3
 
 ### Terminate the machine from task 2!
 
@@ -84,7 +84,11 @@ No answer needed
 No answer needed
 {% endhint %}
 
-### Join Linux Fundamentals Part 3!
+### Join [Linux Fundamentals Part 3](../linux-fundamentals-or-part-3/)!
+
+{% embed url="https://tryhackme.com/room/linuxfundamentalspart3" %}
+[https://tryhackme.com/room/linuxfundamentalspart3](https://tryhackme.com/room/linuxfundamentalspart3)
+{% endembed %}
 
 {% hint style="success" %}
 No answer needed
