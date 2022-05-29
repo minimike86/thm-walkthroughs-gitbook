@@ -5,7 +5,6 @@
 
 ## Info
 
-* [🚀 Learning Cyber Security](info/learning-cyber-security.md)
 * [🐧 Linux Fundamentals | Part 1](info/linux-fundamentals-or-part-1/README.md)
   * [Task 2 - A Bit of Background on Linux](info/linux-fundamentals-or-part-1/task-2-a-bit-of-background-on-linux.md)
   * [Task 4 - Running Your First few Commands](info/linux-fundamentals-or-part-1/task-4-running-your-first-few-commands.md)
@@ -26,6 +25,7 @@
 
 ## Easy
 
+* [🚀 Learning Cyber Security](easy/learning-cyber-security.md)
 * [🔍 Google Dorking](easy/google-dorking/README.md)
   * [Task 2 - Let's Learn About Crawlers](easy/google-dorking/task-2-lets-learn-about-crawlers.md)
   * [Task 4 - Beepboop - Robots.txt](easy/google-dorking/task-4-beepboop-robots.txt.md)

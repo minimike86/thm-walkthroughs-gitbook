@@ -8,7 +8,7 @@
 | --------------------- | ----------------------------------------------------------------------- |
 | Subscription Required |  <mark style="color:green;background-color:green;">False</mark> \[Free] |
 | Type                  | Walkthrough                                                             |
-| Difficulty            |  <mark style="color:blue;background-color:blue;">Info</mark>            |
+| Difficulty            |  <mark style="color:green;background-color:green;">Easy</mark>          |
 | Tags                  | Cyber Fundamentals                                                      |
 
 ## Task 1 - Web Application Security
