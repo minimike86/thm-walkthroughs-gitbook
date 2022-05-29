@@ -9,6 +9,8 @@ coverY: 6.5785609397944205
 # 🪟 Attacktive Directory
 
 {% embed url="https://tryhackme.com/room/attacktivedirectory" %}
+[https://tryhackme.com/room/attacktivedirectory](https://tryhackme.com/room/attacktivedirectory)
+{% endembed %}
 
 | Room Attributes       | Value                                                                   |
 | --------------------- | ----------------------------------------------------------------------- |

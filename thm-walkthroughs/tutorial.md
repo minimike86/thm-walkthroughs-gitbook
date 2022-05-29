@@ -5,6 +5,8 @@ description: Learn how to use a TryHackMe room to start your upskilling in cyber
 # 🧑🏫 Tutorial
 
 {% embed url="https://tryhackme.com/room/tutorial" %}
+[https://tryhackme.com/room/tutorial](https://tryhackme.com/room/tutorial)
+{% endembed %}
 
 | Room Attributes       | Value                                                                   |
 | --------------------- | ----------------------------------------------------------------------- |

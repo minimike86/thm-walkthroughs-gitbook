@@ -5,6 +5,8 @@ description: Learning about the security failings commonly seen in Hadoop
 # 🐘 Hacking Hadoop \[WIP]
 
 {% embed url="https://tryhackme.com/room/hackinghadoop" %}
+[https://tryhackme.com/room/hackinghadoop](https://tryhackme.com/room/hackinghadoop)
+{% endembed %}
 
 | Room Attributes       | Value                                                                   |
 | --------------------- | ----------------------------------------------------------------------- |

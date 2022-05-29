@@ -9,6 +9,8 @@ coverY: 0
 # 🐝 OWASP Top 10
 
 {% embed url="https://tryhackme.com/room/owasptop10" %}
+[https://tryhackme.com/room/owasptop10](https://tryhackme.com/room/owasptop10)
+{% endembed %}
 
 | Room Attributes       | Value                                                                   |
 | --------------------- | ----------------------------------------------------------------------- |

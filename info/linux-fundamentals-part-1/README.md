@@ -8,6 +8,8 @@ coverY: 0
 # 🐧 Linux Fundamentals Part 1
 
 {% embed url="https://tryhackme.com/room/linuxfundamentalspart1" %}
+[https://tryhackme.com/room/linuxfundamentalspart1](https://tryhackme.com/room/linuxfundamentalspart1)
+{% endembed %}
 
 | Room Attributes       | Value                                                                   |
 | --------------------- | ----------------------------------------------------------------------- |

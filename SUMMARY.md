@@ -1,6 +1,7 @@
 # Table of contents
 
 * [THM Walkthroughs](README.md)
+  * [🧑🏫 Tutorial](thm-walkthroughs/tutorial.md)
 
 ## Info
 
@@ -13,8 +14,19 @@
 
 ## Easy
 
-* [🧑🏫 Tutorial](easy/tutorial.md)
-* [📡 Nmap](easy/nmap.md)
+* [📡 Nmap](easy/nmap/README.md)
+  * [Task 2 - Introduction](easy/nmap/task-2-introduction.md)
+  * [Task 3 - Nmap Switches](easy/nmap/task-3-nmap-switches.md)
+  * [Task 5 - TCP Connect Scans](easy/nmap/task-5-tcp-connect-scans.md)
+  * [Task 6 - Scan Types  SYN Scans](easy/nmap/task-6-scan-types-syn-scans.md)
+  * [Task 7 - UDP Scans](easy/nmap/task-7-udp-scans.md)
+  * [Task 8 - NULL, FIN and Xmas](easy/nmap/task-8-null-fin-and-xmas.md)
+  * [Task 9 - ICMP Network Scanning](easy/nmap/task-9-icmp-network-scanning.md)
+  * [Task 10 - NSE Scripts  Overview](easy/nmap/task-10-nse-scripts-overview.md)
+  * [Task 11 - Working with the NSE](easy/nmap/task-11-working-with-the-nse.md)
+  * [Task 12 - Searching for Scripts](easy/nmap/task-12-searching-for-scripts.md)
+  * [Task 13 - Firewall Evasion](easy/nmap/task-13-firewall-evasion.md)
+  * [Task 14 - Practical](easy/nmap/task-14-practical.md)
 * [🐝 OWASP Top 10](easy/owasp-top-10/README.md)
   * [Task 5 - Command Injection Practical](easy/owasp-top-10/task-5-command-injection-practical.md)
   * [Task 7 - Broken Authentication Practical](easy/owasp-top-10/task-7-broken-authentication-practical.md)
@@ -29,6 +41,11 @@
   * [Task 24 - Insecure Deserialization - Cookies](easy/owasp-top-10/task-24-insecure-deserialization-cookies.md)
   * [Task 25 - Insecure Deserialization - Cookies Practical](easy/owasp-top-10/task-25-insecure-deserialization-cookies-practical.md)
   * [Task 30 - Insufficient Logging and Monitoring](easy/owasp-top-10/task-30-insufficient-logging-and-monitoring.md)
+* [📡 RustScan](easy/rustscan/README.md)
+  * [Task 2 - Installing RustScan](easy/rustscan/task-2-installing-rustscan.md)
+  * [Task 5 - Extensible](easy/rustscan/task-5-extensible.md)
+  * [Task 7 - Scanning Time!](easy/rustscan/task-7-scanning-time.md)
+  * [Task 8 - RustScan Quiz](easy/rustscan/task-8-rustscan-quiz.md)
 
 ## Medium
 

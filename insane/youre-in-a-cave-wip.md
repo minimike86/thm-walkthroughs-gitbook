@@ -5,6 +5,8 @@ description: A room with some ctf elements inspired in text based RPGs
 # ⛺ You're in a cave \[WIP]
 
 {% embed url="https://tryhackme.com/room/inacave" %}
+[https://tryhackme.com/room/inacave](https://tryhackme.com/room/inacave)
+{% endembed %}
 
 | Room Attributes       | Value                                                                   |
 | --------------------- | ----------------------------------------------------------------------- |
