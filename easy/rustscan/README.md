@@ -15,6 +15,12 @@ description: Learn how to use RustScan.
 | Difficulty            |  <mark style="color:green;background-color:green;">Easy</mark>          |
 | Tags                  | Security, RustScan, Nmap, Scan                                          |
 
+## Walkthrough Video
+
+{% embed url="https://www.youtube.com/watch?v=oDMcq7ta_w4" %}
+[https://www.youtube.com/watch?v=oDMcq7ta\_w4](https://www.youtube.com/watch?v=oDMcq7ta\_w4)
+{% endembed %}
+
 ## Task 1 - About RustScan
 
 ### Deploy the machine!

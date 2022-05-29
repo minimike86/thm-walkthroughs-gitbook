@@ -15,6 +15,12 @@ description: An in depth look at scanning with Nmap, a powerful network scanning
 | Difficulty            |  <mark style="color:green;background-color:green;">Easy</mark>          |
 | Tags                  | Beginner, Nmap, Scanning, Theory                                        |
 
+## Walkthrough Video
+
+{% embed url="https://www.youtube.com/watch?v=KaVthSQrhqc" %}
+[https://www.youtube.com/watch?v=KaVthSQrhqc](https://www.youtube.com/watch?v=KaVthSQrhqc)
+{% endembed %}
+
 ## Task 1 - Deploy
 
 ### Deploy the attached VM

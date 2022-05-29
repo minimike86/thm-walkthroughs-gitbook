@@ -14,6 +14,11 @@
 
 ## Easy
 
+* [🔍 Google Dorking](easy/google-dorking/README.md)
+  * [Task 2 - Let's Learn About Crawlers](easy/google-dorking/task-2-lets-learn-about-crawlers.md)
+  * [Task 4 - Beepboop - Robots.txt](easy/google-dorking/task-4-beepboop-robots.txt.md)
+  * [Task 5 - Sitemaps](easy/google-dorking/task-5-sitemaps.md)
+  * [Task 6 - What is Google Dorking?](easy/google-dorking/task-6-what-is-google-dorking.md)
 * [📡 Nmap](easy/nmap/README.md)
   * [Task 2 - Introduction](easy/nmap/task-2-introduction.md)
   * [Task 3 - Nmap Switches](easy/nmap/task-3-nmap-switches.md)
