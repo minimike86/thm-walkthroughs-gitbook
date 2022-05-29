@@ -5,12 +5,17 @@
 
 ## Info
 
-* [🐧 Linux Fundamentals Part 1](info/linux-fundamentals-part-1/README.md)
-  * [Task 2 - A Bit of Background on Linux](info/linux-fundamentals-part-1/task-2-a-bit-of-background-on-linux.md)
-  * [Task 4 - Running Your First few Commands](info/linux-fundamentals-part-1/task-4-running-your-first-few-commands.md)
-  * [Task 5 - Interacting With the Filesystem!](info/linux-fundamentals-part-1/task-5-interacting-with-the-filesystem.md)
-  * [Task 6 - Searching for Files](info/linux-fundamentals-part-1/task-6-searching-for-files.md)
-  * [Task 7 - An Introduction to Shell Operators](info/linux-fundamentals-part-1/task-7-an-introduction-to-shell-operators.md)
+* [🐧 Linux Fundamentals | Part 1](info/linux-fundamentals-or-part-1/README.md)
+  * [Task 2 - A Bit of Background on Linux](info/linux-fundamentals-or-part-1/task-2-a-bit-of-background-on-linux.md)
+  * [Task 4 - Running Your First few Commands](info/linux-fundamentals-or-part-1/task-4-running-your-first-few-commands.md)
+  * [Task 5 - Interacting With the Filesystem!](info/linux-fundamentals-or-part-1/task-5-interacting-with-the-filesystem.md)
+  * [Task 6 - Searching for Files](info/linux-fundamentals-or-part-1/task-6-searching-for-files.md)
+  * [Task 7 - An Introduction to Shell Operators](info/linux-fundamentals-or-part-1/task-7-an-introduction-to-shell-operators.md)
+* [🐧 Linux Fundamentals | Part 2](info/linux-fundamentals-or-part-2/README.md)
+  * [Task 3 - Introduction to Flags and Switches](info/linux-fundamentals-or-part-2/task-3-introduction-to-flags-and-switches.md)
+  * [Task 4 - Filesystem Interaction Continued](info/linux-fundamentals-or-part-2/task-4-filesystem-interaction-continued.md)
+  * [Task 5 - Permissions 101](info/linux-fundamentals-or-part-2/task-5-permissions-101.md)
+  * [Task 6 - Common Directories](info/linux-fundamentals-or-part-2/task-6-common-directories.md)
 
 ## Easy
 
