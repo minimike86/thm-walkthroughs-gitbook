@@ -26,6 +26,7 @@
   * [Task 8 - Maintaining Your System: Logs](info/linux-fundamentals-or-part-3/task-8-maintaining-your-system-logs.md)
 * [🦹 Pentesting Fundamentals](info/pentesting-fundamentals.md)
 * [🔓 Principles of Security](info/principles-of-security.md)
+* [🟧 Burp Suite: The Basics](info/burp-suite-the-basics.md)
 
 ## Easy
 
