@@ -18,40 +18,40 @@
 
 * [ ] Linux Fundamentals 1
 
-{% content-ref url="linux-fundamentals-part-1/" %}
-[linux-fundamentals-part-1](linux-fundamentals-part-1/)
+{% content-ref url="linux-fundamentals/linux-fundamentals-part-1/" %}
+[linux-fundamentals-part-1](linux-fundamentals/linux-fundamentals-part-1/)
 {% endcontent-ref %}
 
 * [ ] Linux Fundamentals 2
 
-{% content-ref url="linux-fundamentals-part-2/" %}
-[linux-fundamentals-part-2](linux-fundamentals-part-2/)
+{% content-ref url="linux-fundamentals/linux-fundamentals-part-2/" %}
+[linux-fundamentals-part-2](linux-fundamentals/linux-fundamentals-part-2/)
 {% endcontent-ref %}
 
 * [ ] Linux Fundamentals 3
 
-{% content-ref url="linux-fundamentals-part-3/" %}
-[linux-fundamentals-part-3](linux-fundamentals-part-3/)
+{% content-ref url="linux-fundamentals/linux-fundamentals-part-3/" %}
+[linux-fundamentals-part-3](linux-fundamentals/linux-fundamentals-part-3/)
 {% endcontent-ref %}
 
 ## Windows Fundamentals
 
 * [ ] Windows Fundamentals 1
 
-{% content-ref url="windows-fundamentals-1.md" %}
-[windows-fundamentals-1.md](windows-fundamentals-1.md)
+{% content-ref url="windows-fundamentals/windows-fundamentals-1.md" %}
+[windows-fundamentals-1.md](windows-fundamentals/windows-fundamentals-1.md)
 {% endcontent-ref %}
 
 * [ ] Windows Fundamentals 2
 
-{% content-ref url="windows-fundamentals-2.md" %}
-[windows-fundamentals-2.md](windows-fundamentals-2.md)
+{% content-ref url="windows-fundamentals/windows-fundamentals-2.md" %}
+[windows-fundamentals-2.md](windows-fundamentals/windows-fundamentals-2.md)
 {% endcontent-ref %}
 
 * [ ] Windows Fundamentals 3
 
-{% content-ref url="windows-fundamentals-3.md" %}
-[windows-fundamentals-3.md](windows-fundamentals-3.md)
+{% content-ref url="windows-fundamentals/windows-fundamentals-3.md" %}
+[windows-fundamentals-3.md](windows-fundamentals/windows-fundamentals-3.md)
 {% endcontent-ref %}
 
 ## Cybersecurity Basics
