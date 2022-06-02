@@ -2,7 +2,6 @@
 description: https://tryhackme.com/
 cover: https://www.hostingadvice.com/wp-content/uploads/2020/07/HA-TryHackMe.jpg
 coverY: 158.49546044098574
-layout: landing
 ---
 
 # THM Walkthroughs

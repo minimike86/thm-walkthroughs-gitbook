@@ -4,7 +4,7 @@ description: >-
   you are likely to use day-to-day!
 ---
 
-# 🐧 Linux Fundamentals | Part 3
+# 🐧 Linux Fundamentals Part 3
 
 {% embed url="https://tryhackme.com/room/linuxfundamentalspart3" %}
 [https://tryhackme.com/room/linuxfundamentalspart3](https://tryhackme.com/room/linuxfundamentalspart3)
