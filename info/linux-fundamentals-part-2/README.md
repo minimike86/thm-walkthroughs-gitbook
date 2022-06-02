@@ -5,7 +5,7 @@ description: >-
   system interaction.
 ---
 
-# 🐧 Linux Fundamentals | Part 2
+# 🐧 Linux Fundamentals Part 2
 
 {% embed url="https://tryhackme.com/room/linuxfundamentalspart2" %}
 [https://tryhackme.com/room/linuxfundamentalspart2](https://tryhackme.com/room/linuxfundamentalspart2)
@@ -84,7 +84,7 @@ No answer needed
 No answer needed
 {% endhint %}
 
-### Join [Linux Fundamentals Part 3](../linux-fundamentals-or-part-3/)!
+### Join [Linux Fundamentals Part 3](../linux-fundamentals-part-3/)!
 
 {% embed url="https://tryhackme.com/room/linuxfundamentalspart3" %}
 [https://tryhackme.com/room/linuxfundamentalspart3](https://tryhackme.com/room/linuxfundamentalspart3)

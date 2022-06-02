@@ -4,6 +4,19 @@ description: An introduction to using Burp Suite for Web Application pentesting
 
 # 🟧 Burp Suite: The Basics
 
+{% embed url="https://tryhackme.com/room/burpsuitebasics" %}
+[https://tryhackme.com/room/burpsuitebasics](https://tryhackme.com/room/burpsuitebasics)
+{% endembed %}
+
+
+
+| Room Attributes       | Value                                                                   |
+| --------------------- | ----------------------------------------------------------------------- |
+| Subscription Required |  <mark style="color:green;background-color:green;">False</mark> \[Free] |
+| Type                  | Walkthrough                                                             |
+| Difficulty            |  <mark style="color:blue;background-color:blue;">Info</mark>            |
+| Tags                  | Burp Suite, Webapp, Tutorial, Toolkit                                   |
+
 ## Task 1 <mark style="color:green;background-color:green;">Introduction</mark> Outline
 
 Deploy the machine attached to the task by pressing the green "Start Machine" button, as well as the AttackBox (using the "Start AttackBox" button at the top of the page) if you are not using your own machine.
