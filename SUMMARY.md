@@ -5,6 +5,8 @@
 
 ## Info
 
+* [🔌 What is Networking?](info/what-is-networking.md)
+* [🔌 Intro to LAN](info/intro-to-lan.md)
 * [🐧 Linux Fundamentals | Part 1](info/linux-fundamentals-or-part-1/README.md)
   * [Task 2 - A Bit of Background on Linux](info/linux-fundamentals-or-part-1/task-2-a-bit-of-background-on-linux.md)
   * [Task 4 - Running Your First few Commands](info/linux-fundamentals-or-part-1/task-4-running-your-first-few-commands.md)
@@ -22,6 +24,7 @@
   * [Task 5 - Processes 101](info/linux-fundamentals-or-part-3/task-5-processes-101.md)
   * [Task 6 - Maintaining Your System: Automation](info/linux-fundamentals-or-part-3/task-6-maintaining-your-system-automation.md)
   * [Task 8 - Maintaining Your System: Logs](info/linux-fundamentals-or-part-3/task-8-maintaining-your-system-logs.md)
+* [🦹 Pentesting Fundamentals](info/pentesting-fundamentals.md)
 
 ## Easy
 
