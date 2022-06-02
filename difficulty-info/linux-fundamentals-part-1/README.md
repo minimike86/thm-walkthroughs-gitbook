@@ -82,7 +82,7 @@ No answer needed
 No answer needed
 {% endhint %}
 
-### Join [Linux Fundamentals Part 2](../linux-fundamentals-or-part-2/)!
+### Join [Linux Fundamentals Part 2](../linux-fundamentals-part-2/)!
 
 {% embed url="https://tryhackme.com/room/linuxfundamentalspart2" %}
 [https://tryhackme.com/room/linuxfundamentalspart2](https://tryhackme.com/room/linuxfundamentalspart2)
