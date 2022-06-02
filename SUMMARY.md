@@ -25,6 +25,7 @@
   * [Task 6 - Maintaining Your System: Automation](info/linux-fundamentals-or-part-3/task-6-maintaining-your-system-automation.md)
   * [Task 8 - Maintaining Your System: Logs](info/linux-fundamentals-or-part-3/task-8-maintaining-your-system-logs.md)
 * [🦹 Pentesting Fundamentals](info/pentesting-fundamentals.md)
+* [🔓 Principles of Security](info/principles-of-security.md)
 
 ## Easy
 
