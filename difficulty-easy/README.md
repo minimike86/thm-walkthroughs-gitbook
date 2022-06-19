@@ -1,2 +1,2 @@
-# 🟩 Difficulty: Easy
+# Difficulty: Easy
 

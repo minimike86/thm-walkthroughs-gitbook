@@ -1,4 +1,4 @@
-# 🟦 Difficulty: Info
+# Difficulty: Info
 
 ## Networking
 
