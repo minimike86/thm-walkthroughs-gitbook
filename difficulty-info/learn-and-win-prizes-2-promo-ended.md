@@ -2,13 +2,11 @@
 description: Complete rooms, win tickets. Get 3 of the same tickets and win a prize.
 ---
 
-# 🎟 Learn and win prizes \[PROMO ENDED]
+# 🎟 Learn and win prizes #2 \[PROMO ENDED]
 
-{% embed url="https://tryhackme.com/room/tickets1" %}
-[https://tryhackme.com/room/tickets1](https://tryhackme.com/room/tickets1)
+{% embed url="https://tryhackme.com/room/tickets2" %}
+[https://tryhackme.com/room/tickets2](https://tryhackme.com/room/tickets2)
 {% endembed %}
-
-
 
 | Room Attributes       | Value                                                                   |
 | --------------------- | ----------------------------------------------------------------------- |
@@ -44,6 +42,12 @@ No answer needed
 ## Task 4 - FAQ and get your first free ticket on us!
 
 ### Completing this room will give you a free ticket to get you started!
+
+{% hint style="success" %}
+No answer needed
+{% endhint %}
+
+### View and enroll in the learning path to get started - Click [here](https://tryhackme.com/path/outline/jrpenetrationtester) to join!
 
 {% hint style="success" %}
 No answer needed
