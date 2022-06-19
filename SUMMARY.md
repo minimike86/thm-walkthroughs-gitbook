@@ -35,6 +35,7 @@
   * [🦹 Pentesting Fundamentals](difficulty-info/pentesting-fundamentals.md)
   * [🔓 CVE Walkthroughs](difficulty-info/cve-walkthroughs/README.md)
     * [🖥 Sudo Security Bypass: CVE-2019-14287](difficulty-info/cve-walkthroughs/sudo-security-bypass-cve-2019-14287.md)
+    * [🖥 Sudo Buffer Overflow: CVE-2019-18634](difficulty-info/cve-walkthroughs/sudo-buffer-overflow-cve-2019-18634.md)
     * [🖥 Baron Samedit: CVE-2021-3156](difficulty-info/cve-walkthroughs/baron-samedit-cve-2021-3156.md)
     * [🖥 OverlayFS: CVE-2021-3493](difficulty-info/cve-walkthroughs/overlayfs-cve-2021-3493.md)
     * [🖥 Pwnkit: CVE-2021-4034](difficulty-info/cve-walkthroughs/pwnkit-cve-2021-4034.md)
