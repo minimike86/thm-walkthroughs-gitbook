@@ -39,6 +39,7 @@
     * [🖥 OverlayFS: CVE-2021-3493](difficulty-info/cve-walkthroughs/overlayfs-cve-2021-3493.md)
     * [🖥 Pwnkit: CVE-2021-4034](difficulty-info/cve-walkthroughs/pwnkit-cve-2021-4034.md)
     * [🧻 Dirty Pipe: CVE-2022-0847](difficulty-info/cve-walkthroughs/dirty-pipe-cve-2022-0847.md)
+    * [🟢 Spring4Shell: CVE-2022-22965](difficulty-info/cve-walkthroughs/spring4shell-cve-2022-22965.md)
   * [🟧 Burp Suite](difficulty-info/burp-suite/README.md)
     * [🟧 Burp Suite: The Basics](difficulty-info/burp-suite-the-basics.md)
     * [🟧 Burp Suite: Repeater](difficulty-info/burp-suite/burp-suite-repeater.md)
