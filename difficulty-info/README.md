@@ -92,8 +92,8 @@
 
 * [ ] BurpSuite: The Basics
 
-{% content-ref url="burp-suite/burp-suite-the-basics.md" %}
-[burp-suite-the-basics.md](burp-suite/burp-suite-the-basics.md)
+{% content-ref url="burp-suite-the-basics.md" %}
+[burp-suite-the-basics.md](burp-suite-the-basics.md)
 {% endcontent-ref %}
 
 * [ ] BurpSuite: Repeater

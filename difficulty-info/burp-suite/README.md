@@ -2,8 +2,8 @@
 
 * [ ] Burp Suite: The Basics
 
-{% content-ref url="burp-suite-the-basics.md" %}
-[burp-suite-the-basics.md](burp-suite-the-basics.md)
+{% content-ref url="../burp-suite-the-basics.md" %}
+[burp-suite-the-basics.md](../burp-suite-the-basics.md)
 {% endcontent-ref %}
 
 * [ ] Burp Suite: Repeater
