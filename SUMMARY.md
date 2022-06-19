@@ -28,6 +28,7 @@
     * [🪟 Windows Fundamentals 2](difficulty-info/windows-fundamentals/windows-fundamentals-2.md)
     * [🪟 Windows Fundamentals 3](difficulty-info/windows-fundamentals/windows-fundamentals-3.md)
   * [🔓 Principles of Security](difficulty-info/principles-of-security.md)
+  * [🔍 History of Malware](difficulty-info/history-of-malware.md)
   * [⚔ Intro to Offensive Security](difficulty-info/intro-to-offensive-security.md)
   * [🦹 Pentesting Fundamentals](difficulty-info/pentesting-fundamentals.md)
   * [🟧 Burp Suite: The Basics](difficulty-info/burp-suite-the-basics.md)
