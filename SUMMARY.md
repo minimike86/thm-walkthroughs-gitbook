@@ -38,6 +38,7 @@
     * [🖥 Sudo Buffer Overflow: CVE-2019-18634](difficulty-info/cve-walkthroughs/sudo-buffer-overflow-cve-2019-18634.md)
     * [🖥 Baron Samedit: CVE-2021-3156](difficulty-info/cve-walkthroughs/baron-samedit-cve-2021-3156.md)
     * [🖥 OverlayFS: CVE-2021-3493](difficulty-info/cve-walkthroughs/overlayfs-cve-2021-3493.md)
+    * [🖥 Polkit: CVE-2021-3560](difficulty-info/cve-walkthroughs/polkit-cve-2021-3560.md)
     * [🖥 Pwnkit: CVE-2021-4034](difficulty-info/cve-walkthroughs/pwnkit-cve-2021-4034.md)
     * [🧻 Dirty Pipe: CVE-2022-0847](difficulty-info/cve-walkthroughs/dirty-pipe-cve-2022-0847.md)
     * [🟢 Spring4Shell: CVE-2022-22965](difficulty-info/cve-walkthroughs/spring4shell-cve-2022-22965.md)
