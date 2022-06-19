@@ -1,2 +1,2 @@
-# 🟨 Difficulty: Medium
+# Difficulty: Medium
 

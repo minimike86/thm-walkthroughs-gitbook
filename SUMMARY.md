@@ -39,6 +39,8 @@
   * [🟧 Burp Suite](difficulty-info/burp-suite/README.md)
     * [🟧 Burp Suite: The Basics](difficulty-info/burp-suite-the-basics.md)
     * [🟧 Burp Suite: Repeater](difficulty-info/burp-suite/burp-suite-repeater.md)
+  * [🏁 Challenges](difficulty-info/challenges/README.md)
+    * [Bypass Disable Functions](difficulty-info/challenges/bypass-disable-functions.md)
   * [🎟 THM PROMOs](difficulty-info/thm-promos/README.md)
     * [🎟 Learn and win prizes \[PROMO ENDED\]](difficulty-info/thm-promos/learn-and-win-prizes-promo-ended.md)
     * [🎟 Learn and win prizes #2 \[PROMO ENDED\]](difficulty-info/thm-promos/learn-and-win-prizes-2-promo-ended.md)
