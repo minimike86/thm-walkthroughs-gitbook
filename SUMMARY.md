@@ -33,7 +33,8 @@
   * [🦹 Pentesting Fundamentals](difficulty-info/pentesting-fundamentals.md)
   * [🟧 Burp Suite: The Basics](difficulty-info/burp-suite-the-basics.md)
   * [🟧 Burp Suite: Repeater](difficulty-info/burp-suite-repeater.md)
-* [Difficulty: Easy](difficulty-easy/README.md)
+  * [🎟 Learn and win prizes \[PROMO ENDED\]](difficulty-info/learn-and-win-prizes-promo-ended.md)
+* [🟩 Difficulty: Easy](difficulty-easy/README.md)
   * [🚀 Learning Cyber Security](difficulty-easy/learning-cyber-security.md)
   * [🔍 Google Dorking](difficulty-easy/google-dorking/README.md)
     * [Task 2 - Let's Learn About Crawlers](difficulty-easy/google-dorking/task-2-lets-learn-about-crawlers.md)
@@ -72,7 +73,7 @@
     * [Task 5 - Extensible](difficulty-easy/rustscan/task-5-extensible.md)
     * [Task 7 - Scanning Time!](difficulty-easy/rustscan/task-7-scanning-time.md)
     * [Task 8 - RustScan Quiz](difficulty-easy/rustscan/task-8-rustscan-quiz.md)
-* [Difficulty: Medium](difficulty-medium/README.md)
+* [🟨 Difficulty: Medium](difficulty-medium/README.md)
   * [🪟 Attacktive Directory](difficulty-medium/attacktive-directory/README.md)
     * [Task 3 - Welcome to Attacktive Directory](difficulty-medium/attacktive-directory/task-3-welcome-to-attacktive-directory.md)
     * [Task 4 - Enumerating Users via Kerberos](difficulty-medium/attacktive-directory/task-4-enumerating-users-via-kerberos.md)
@@ -80,11 +81,7 @@
     * [Task 6 - Back to the Basics](difficulty-medium/attacktive-directory/task-6-back-to-the-basics.md)
     * [Task 7 - Elevating Privileges within the Domain](difficulty-medium/attacktive-directory/task-7-elevating-privileges-within-the-domain.md)
     * [Task 8 - Flag Submission Panel](difficulty-medium/attacktive-directory/task-8-flag-submission-panel.md)
-
-## Hard
-
-* [🐘 Hacking Hadoop \[WIP\]](hard/hacking-hadoop-wip.md)
-
-## Insane
-
-* [⛺ You're in a cave \[WIP\]](insane/youre-in-a-cave-wip.md)
+* [🟧 Difficulty: Hard](difficulty-hard/README.md)
+  * [🐘 Hacking Hadoop \[WIP\]](difficulty-hard/hacking-hadoop-wip.md)
+* [🟥 Difficulty: Insane](difficulty-insane/README.md)
+  * [⛺ You're in a cave \[WIP\]](difficulty-insane/youre-in-a-cave-wip.md)

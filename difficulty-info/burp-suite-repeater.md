@@ -27,8 +27,6 @@ description: Learn how to use Repeater to duplicate requests in Burp Suite
 _**Note:** If you are not using the AttackBox and want to connect to this machine without the VPN, you can do so using this link once the machine has fully loaded and an IP address is displayed:_ `https://LAB_WEB_URL.p.thmlabs.com`_._
 {% endhint %}
 
-
-
 {% hint style="success" %}
 No answer needed
 {% endhint %}
