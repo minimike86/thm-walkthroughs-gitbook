@@ -4,7 +4,7 @@ description: >-
   commands or start processes.
 ---
 
-# Bypass Disable Functions
+# ⤴ Bypass Disable Functions
 
 {% embed url="https://tryhackme.com/room/bypassdisablefunctions" %}
 [https://tryhackme.com/room/bypassdisablefunctions](https://tryhackme.com/room/bypassdisablefunctions)
