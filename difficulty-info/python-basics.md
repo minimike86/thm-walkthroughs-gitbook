@@ -18,28 +18,6 @@ description: >-
 | Difficulty            |  <mark style="color:blue;background-color:blue;">Info</mark>            |
 | Tags                  | Python, Programming, Bitcoin                                            |
 
-t
-
-{% hint style="warning" %}
-**HINT:** Formatting: The x Model
-{% endhint %}
-
-t
-
-{% hint style="success" %}
-No answer needed
-{% endhint %}
-
-t
-
-<details>
-
-<summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
-
-:triangular\_flag\_on\_post:`integrity`
-
-</details>
-
 
 
 ## Task 1 - Introduction to Python
