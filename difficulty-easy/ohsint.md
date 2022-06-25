@@ -13,7 +13,7 @@ description: Are you able to use open source intelligence to solve this challeng
 | Subscription Required |  <mark style="color:green;background-color:green;">False</mark> \[Free] |
 | Type                  | Challenges (CTF)                                                        |
 | Difficulty            |  <mark style="color:green;background-color:green;">Easy</mark>          |
-| Tags                  | Hash, Hashcat, JohnTheRipper, Cracking                                  |
+| Tags                  | OSINT, Internet, Dorks                                                  |
 
 ## Task 1 - OhSINT
 

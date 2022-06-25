@@ -101,6 +101,7 @@
     * [Task 6 - Back to the Basics](difficulty-medium/attacktive-directory/task-6-back-to-the-basics.md)
     * [Task 7 - Elevating Privileges within the Domain](difficulty-medium/attacktive-directory/task-7-elevating-privileges-within-the-domain.md)
     * [Task 8 - Flag Submission Panel](difficulty-medium/attacktive-directory/task-8-flag-submission-panel.md)
+  * [💀 Mr Robot CTF](difficulty-medium/mr-robot-ctf.md)
 * [🟧 Difficulty: Hard](difficulty-hard/README.md)
   * [🐘 Hacking Hadoop \[WIP\]](hard/hacking-hadoop-wip.md)
 * [🟥 Difficulty: Insane](difficulty-insane/README.md)
