@@ -92,6 +92,7 @@
     * [Task 7 - Scanning Time!](difficulty-easy/rustscan/task-7-scanning-time.md)
     * [Task 8 - RustScan Quiz](difficulty-easy/rustscan/task-8-rustscan-quiz.md)
   * [🐙 Crack the hash](difficulty-easy/crack-the-hash.md)
+  * [🌍 OhSINT](difficulty-easy/ohsint.md)
 * [🟨 Difficulty: Medium](difficulty-medium/README.md)
   * [🪟 Attacktive Directory](difficulty-medium/attacktive-directory/README.md)
     * [Task 3 - Welcome to Attacktive Directory](difficulty-medium/attacktive-directory/task-3-welcome-to-attacktive-directory.md)
