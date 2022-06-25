@@ -13,7 +13,7 @@ description: Based on the Mr. Robot show, can you root this box?
 | Subscription Required |  <mark style="color:green;background-color:green;">False</mark> \[Free] |
 | Type                  | Challenges (CTF)                                                        |
 | Difficulty            |  <mark style="color:orange;background-color:yellow;">Medium</mark>      |
-| Tags                  | OSINT, Internet, Dorks                                                  |
+| Tags                  | MrRobot, Root, Beginner                                                 |
 
 ## Video Walkthrough
 
