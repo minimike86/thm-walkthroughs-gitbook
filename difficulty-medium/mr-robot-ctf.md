@@ -1,5 +1,5 @@
 ---
-description: Are you able to use open source intelligence to solve this challenge?
+description: Based on the Mr. Robot show, can you root this box?
 ---
 
 # 💀 Mr Robot CTF
