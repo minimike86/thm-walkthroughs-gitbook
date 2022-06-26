@@ -12,7 +12,7 @@ description: Learning about the security failings commonly seen in Hadoop
 | --------------------- | ----------------------------------------------------------------------- |
 | Subscription Required |  <mark style="color:green;background-color:green;">False</mark> \[Free] |
 | Type                  | Walkthrough                                                             |
-| Difficulty            |  <mark style="color:red;background-color:red;">Hard</mark>              |
+| Difficulty            |  <mark style="color:orange;background-color:orange;">Hard</mark>        |
 | Tags                  | Security, Hadoop, DataLake, BigData                                     |
 
 ## Task 1 Connect to the datalake

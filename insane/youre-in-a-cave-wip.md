@@ -12,7 +12,7 @@ description: A room with some ctf elements inspired in text based RPGs
 | --------------------- | ----------------------------------------------------------------------- |
 | Subscription Required |  <mark style="color:green;background-color:green;">False</mark> \[Free] |
 | Type                  | Challenges (CTF)                                                        |
-| Difficulty            |  <mark style="color:purple;background-color:purple;">Insane</mark>      |
+| Difficulty            |  <mark style="color:red;background-color:red;">Insane</mark>            |
 | Tags                  | Docker, PrivEsc, RPG, Regex                                             |
 
 ## Task 1 You find yourself in a cave
