@@ -173,7 +173,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 /internal             (Status: 301) [Size: 322] [--> http://10.10.86.148:3333/internal/]
 ```
 
-
+![upload form page](../.gitbook/assets/Screenshot\_2022-06-26\_01-41-04.png)
 
 <details>
 
