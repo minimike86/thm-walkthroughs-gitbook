@@ -4,7 +4,7 @@ description: >-
   issues.
 ---
 
-# Blue \[WIP]
+# 🪟 Blue \[WIP]
 
 {% embed url="https://tryhackme.com/room/blue" %}
 [https://tryhackme.com/room/blue](https://tryhackme.com/room/blue)
