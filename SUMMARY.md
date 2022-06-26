@@ -94,6 +94,8 @@
   * [🐙 Crack the hash](difficulty-easy/crack-the-hash.md)
   * [🌍 OhSINT](difficulty-easy/ohsint.md)
   * [🧑🚀 Vulnversity](difficulty-easy/vulnversity.md)
+  * [🧊 Ice \[WIP\]](difficulty-easy/ice-wip.md)
+  * [Blue \[WIP\]](difficulty-easy/blue-wip.md)
 * [🟨 Difficulty: Medium](difficulty-medium/README.md)
   * [🪟 Attacktive Directory](difficulty-medium/attacktive-directory/README.md)
     * [Task 3 - Welcome to Attacktive Directory](difficulty-medium/attacktive-directory/task-3-welcome-to-attacktive-directory.md)

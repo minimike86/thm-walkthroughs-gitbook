@@ -18,13 +18,9 @@ link to video
 
 ### Question Y (Duplicate For Each Question)
 
-.
-
 {% hint style="warning" %}
 **HINT:** md5
 {% endhint %}
-
-.
 
 {% hint style="success" %}
 No answer needed
