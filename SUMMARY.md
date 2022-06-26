@@ -103,6 +103,7 @@
     * [Task 7 - Elevating Privileges within the Domain](difficulty-medium/attacktive-directory/task-7-elevating-privileges-within-the-domain.md)
     * [Task 8 - Flag Submission Panel](difficulty-medium/attacktive-directory/task-8-flag-submission-panel.md)
   * [💀 Mr Robot CTF](difficulty-medium/mr-robot-ctf.md)
+  * [🛗 Linux PrivEsc \[WIP\]](difficulty-medium/linux-privesc-wip.md)
   * [🛗 Linux PrivEsc Arena \[WIP\]](difficulty-medium/linux-privesc-arena-wip.md)
   * [🛗 Windows PrivEsc Arena](difficulty-medium/windows-privesc-arena.md)
 * [🟧 Difficulty: Hard](difficulty-hard/README.md)
