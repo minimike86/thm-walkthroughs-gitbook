@@ -320,6 +320,10 @@ find / -perm -u=s -type f 2>/dev/null
 **HINT:** /bin/systemctl
 {% endhint %}
 
+{% embed url="https://gtfobins.github.io/gtfobins/systemctl/" %}
+[https://gtfobins.github.io/gtfobins/systemctl/](https://gtfobins.github.io/gtfobins/systemctl/)
+{% endembed %}
+
 {% embed url="https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49" %}
 [https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49](https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49)
 {% endembed %}
