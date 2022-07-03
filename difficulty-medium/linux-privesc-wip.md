@@ -5,7 +5,7 @@ description: >-
   Credentials: user:password321
 ---
 
-# 🛗 Linux PrivEsc \[WIP]
+# 🛗 Linux PrivEsc
 
 {% embed url="https://tryhackme.com/room/linuxprivesc" %}
 [https://tryhackme.com/room/linuxprivesc](https://tryhackme.com/room/linuxprivesc)

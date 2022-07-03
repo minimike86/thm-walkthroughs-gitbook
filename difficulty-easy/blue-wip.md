@@ -17,6 +17,12 @@ description: >-
 | Difficulty            |  <mark style="color:orange;background-color:yellow;">Medium</mark>      |
 | Tags                  | Windows, Eternal Blue, MS17-010, CVE2017-0144                           |
 
+## Video Walkthrough <a href="#task-1-starting-your-first-machine" id="task-1-starting-your-first-machine"></a>
+
+{% embed url="https://youtu.be/NkCTJA1Pmvg?list=PL5-_Nmz1hGn9WwYmD2CgXYZycSuCBxbrs" %}
+[https://youtu.be/NkCTJA1Pmvg](https://youtu.be/NkCTJA1Pmvg?list=PL5-\_Nmz1hGn9WwYmD2CgXYZycSuCBxbrs)
+{% endembed %}
+
 ## Task 1 Recon
 
 ### Scan the machine. (If you are unsure how to tackle this, I recommend checking out the [Nmap](https://tryhackme.com/room/furthernmap) room)
@@ -247,7 +253,7 @@ No answer needed
 
 </details>
 
-flag3? _This flag can be found in an excellent location to loot. After all, Administrators usually have pretty interesting things saved._&#x20;
+### flag3? _This flag can be found in an excellent location to loot. After all, Administrators usually have pretty interesting things saved._&#x20;
 
 {% hint style="warning" %}
 **HINT:** You'll need to have elevated privileges to access this flag.
