@@ -32,7 +32,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`uid=1000(user) gid=1000(user) groups=1000(user),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev)`
 
 </details>
 
@@ -52,7 +52,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`$6$Tb/euwmK$OXA.dwMeOAcopwBl68boTG5zi65wIHsc84OWAIye5VITLLtVlaXvRDJXET..it8r.jbrlpfZeMdwD3B0fGxJI0`
 
 </details>
 
@@ -66,7 +66,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`sha512crypt`
 
 </details>
 
@@ -76,7 +76,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`password123`
 
 </details>
 
@@ -96,7 +96,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`uid=0(root) gid=0(root) groups=0(root)`
 
 </details>
 
@@ -108,7 +108,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`11`
 
 </details>
 
@@ -118,7 +118,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`apache2`
 
 </details>
 
@@ -156,7 +156,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`/home/user:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin`
 
 </details>
 
@@ -216,7 +216,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`mysql -h somehost.local -uroot -ppassword123`
 
 </details>
 
@@ -228,7 +228,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`/etc/openvpn/auth.txt`
 
 </details>
 
@@ -248,7 +248,7 @@ No answer needed
 
 <summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
 
-:triangular\_flag\_on\_post:`???`
+:triangular\_flag\_on\_post:`no_root_squash`
 
 </details>
 
@@ -267,28 +267,4 @@ No answer needed
 {% hint style="success" %}
 No answer needed
 {% endhint %}
-
-## Task X (Duplicate For Each Task) <a href="#task-1-starting-your-first-machine" id="task-1-starting-your-first-machine"></a>
-
-### Question Y (Duplicate For Each Question)
-
-.
-
-{% hint style="warning" %}
-**HINT:** md5
-{% endhint %}
-
-.
-
-{% hint style="success" %}
-No answer needed
-{% endhint %}
-
-<details>
-
-<summary>Reveal Flag <span data-gb-custom-inline data-tag="emoji" data-code="1f6a9">🚩</span></summary>
-
-:triangular\_flag\_on\_post:`???`
-
-</details>
 
