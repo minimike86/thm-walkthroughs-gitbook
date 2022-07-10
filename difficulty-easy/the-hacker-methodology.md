@@ -2,7 +2,7 @@
 description: Introduction to the Hacker Methodology
 ---
 
-# The Hacker Methodology
+# 🔁 The Hacker Methodology
 
 {% embed url="https://tryhackme.com/room/hackermethodology" %}
 [https://tryhackme.com/room/hackermethodology](https://tryhackme.com/room/hackermethodology)

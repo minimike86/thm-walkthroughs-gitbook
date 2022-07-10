@@ -96,7 +96,7 @@
   * [🧑🚀 Vulnversity](difficulty-easy/vulnversity.md)
   * [🧊 Ice](difficulty-easy/ice.md)
   * [🪟 Blue](difficulty-easy/blue-wip.md)
-  * [The Hacker Methodology](difficulty-easy/the-hacker-methodology.md)
+  * [🔁 The Hacker Methodology](difficulty-easy/the-hacker-methodology.md)
 * [🟨 Difficulty: Medium](difficulty-medium/README.md)
   * [🪟 Attacktive Directory](difficulty-medium/attacktive-directory/README.md)
     * [Task 3 - Welcome to Attacktive Directory](difficulty-medium/attacktive-directory/task-3-welcome-to-attacktive-directory.md)
